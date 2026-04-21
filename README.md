@@ -27,3 +27,5 @@ Keeps bot commits out of human-authored repos (anipotts.com, claude-code-tips, c
 - [`anipotts/claude-code-tips`](https://github.com/anipotts/claude-code-tips) — human-authored Claude Code ecosystem
 - [`anipotts/claudemon`](https://github.com/anipotts/claudemon) — session monitor
 - [`anipotts/imessage-mcp`](https://github.com/anipotts/imessage-mcp) — iMessage MCP server
+
+_Last verified autonomous: 2026-04-21._
